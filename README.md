@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @arscslvt
 - 👀 I’m interested in Web design and development
-- 🌱 I’m currently learning React Native and Flutter
+- 🌱 I’m currently learning Swift and Android Jetpack
 - 📫 How to reach me: salvatorearesco.work@outlook.com
