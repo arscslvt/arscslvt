@@ -1,4 +1,5 @@
 - 👋 Hi, I’m @arscslvt
 - 👀 I’m interested in Web design and development
-- 🌱 I’m currently learning Swift and Jetpack Compose
 - 📫 How to reach me: salvatorearesco.work@outlook.com
+- 📱 Follow me on [X](https://x.com/SalvatoreAresco) and [IG](https://www.instagram.com/arscslvt/)
+- 🌐 Visit [salvatorearesco.com](https://www.salvatorearesco.com) for more info
