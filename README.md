@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @arscslvt
-- 👀 I’m interested in Web design and development
-- 📫 How to reach me: salvatorearesco.work@outlook.com
+- 👾 I'm a full-stack web developer and UI/UX designer
+- 📫 How to reach me: [salvatore@eatrainbows.co](mailto:salvatore@eatrainbows.co)
 - 📱 Follow me on [X](https://x.com/SalvatoreAresco) and [IG](https://www.instagram.com/arscslvt/)
 - 🌐 Visit [salvatorearesco.com](https://www.salvatorearesco.com) for more info
